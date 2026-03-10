@@ -1,0 +1,4 @@
+evaluation/
+   evaluate_vun.py
+   evaluate_binding_affinity.py
+   scaffold_diversity.py
