@@ -1,0 +1,4 @@
+figures/
+   plot_training_curves.py
+   plot_molecule_distribution.py
+   plot_affinity_comparison.py
