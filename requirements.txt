@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+rdkit
+scikit-learn
+matplotlib
+seaborn
+networkx
+gym
+pyyaml
+tqdm
